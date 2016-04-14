@@ -1,0 +1,12 @@
+.editable {
+	display: none;
+}
+.todo.editing > .editable {
+	display: inline;
+}
+.todo.editing > .title {
+	display: none;
+}
+.hidden {
+	display: none;
+}
